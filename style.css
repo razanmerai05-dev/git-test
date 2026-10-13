@@ -1,24 +1,15 @@
-*{
-    
+h1{
+    color: red;
     background-color: black;
-    color: aqua;
-    background-color: bisque;
-    display: flex;
-    justify-self: auto;
+
 }
-*{
-    
-    background-color: black;
-    color: aqua;
-    background-color: bisque;
-    display: flex;
-    justify-self: auto;
+p{
+    color: green;
+    font-size: 30px;
 }
-*{
-    
-    background-color: black;
-    color: aqua;
-    background-color: bisque;
-    display: flex;
-    justify-self: auto;
+div{
+    width: 400px;
+    height: 400px;
+    background-color: orangered;
+    color: white;
 }
